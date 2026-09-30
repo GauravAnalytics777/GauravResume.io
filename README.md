@@ -9,7 +9,7 @@ Entry-Level Data Analyst with hands-on experience in Excel-based reporting and S
 ## 🛠️ Technical Skills
 - **Data Analysis & Reporting:** Data Cleaning, Validation, Interpretation, Dashboard Creation  
 - **Tools & Software:** MS Excel (Pivot Tables, VLOOKUP, HLOOKUP, Charts), MS Word  
-- **Databases:** Basic SQL (SELECT, WHERE, GROUP BY)  
+- **Databases:** Basic SQL (SELECT, WHERE, GROUP BY,join fundamentals)  
 - **Visualization:** Charts, Summary Reports, Dashboards  
 - **Core Skills:** Attention to Detail, Problem Solving, Time Management  
 
@@ -20,9 +20,10 @@ Entry-Level Data Analyst with hands-on experience in Excel-based reporting and S
   - Class 10 – Passed  
 
 ## 📜 Certifications & Training
+- Data Analytics Certification - Dice Academy
 - Logistics and Supply Chain Management – Certified  
 - Spoken English Certification  
-- MS Excel Training (Formulas, Data Handling, Reporting)  
+- MS Excel Training (Formulas, Data Handling, Reporting, Data Cleaning)  
 
 ## 📊 Project Experience
 **Sales Data Analysis Project (Excel,PowerBi)**  
