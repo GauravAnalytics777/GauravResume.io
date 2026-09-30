@@ -25,12 +25,12 @@ Entry-Level Data Analyst with hands-on experience in Excel-based reporting and S
 - MS Excel Training (Formulas, Data Handling, Reporting)  
 
 ## 📊 Project Experience
-**Sales Data Analysis Project (Excel)**  
+**Sales Data Analysis Project (Excel,PowerBi)**  
 - Analyzed sales datasets using Excel formulas and Pivot Tables  
 - Identified monthly trends and top-performing products, improving reporting efficiency by 20%  
 - Created summary reports and charts for business insights  
 
-**Logistics Data Reporting Project**  
+**Logistics Data Reporting Project(Sql,Python)**  
 - Organized shipment and inventory datasets  
 - Cleaned and validated data to ensure 100% accuracy in reporting  
 - Prepared performance and efficiency reports that supported operational decision-making  
@@ -42,7 +42,6 @@ Entry-Level Data Analyst with hands-on experience in Excel-based reporting and S
 - Reliable and punctual with a strong work ethic  
 
 ## 🌐 Additional Information
-- **Languages:** Hindi, English  
-- **Interests:** Cricket analytics, data visualization, exploring tech tools for performance insights  
-- **Career Objective:** To leverage data analysis and visualization skills to contribute to business growth and efficiency in a dynamic organization.  
+- **Languages:** Hindi, English
+
 
