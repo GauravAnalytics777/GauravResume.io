@@ -1,4 +1,6 @@
-#  Gaurav Sanwal
+#  Gaurav Sanwal 
+📧 gauravsanwal707@gmail.com  
+🔗 [LinkedIn](http://www.linkedin.com/in/gaurav-sanwal-a38778351)
 
 ## 👨‍💻 About Me
 Entry-Level Data Analyst with hands-on experience in Excel-based reporting and SQL queries. Skilled at transforming raw datasets into actionable insights that improve efficiency and decision-making. Currently pursuing B.Com at Delhi University, eager to apply analytical skills in a data-driven organization.
@@ -42,6 +44,4 @@ Entry-Level Data Analyst with hands-on experience in Excel-based reporting and S
 - **Languages:** Hindi, English  
 - **Interests:** Cricket analytics, data visualization, exploring tech tools for performance insights  
 - **Career Objective:** To leverage data analysis and visualization skills to contribute to business growth and efficiency in a dynamic organization.  
-**Gaurav Sanwal**  
-📧 gauravsanwal707@gmail.com  
-🔗 [LinkedIn](http://www.linkedin.com/in/gaurav-sanwal-a38778351)
+
