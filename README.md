@@ -14,7 +14,7 @@ Entry-Level Data Analyst with hands-on experience in Excel-based reporting and S
 - **Core Skills:** Attention to Detail, Problem Solving, Time Management  
 
 ## 🎓 Education
-- **Bachelor of Commerce (B.Com)** – University of Delhi *(Pursuing, Expected Graduation: 2026)*  
+- **Bachelor of Commerce (B.Com)** – University of Delhi *(Pursuing)*  
 - **CBSE Board**  
   - Class 12 – Passed  
   - Class 10 – Passed  
